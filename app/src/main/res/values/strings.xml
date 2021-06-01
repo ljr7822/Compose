@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose</string>
+    <string name="test">您可以在 Android Studio 中预览 Jetpack Compose 组件，而无需将应用部署到设备或模拟器。在您开发应用的过程中，预览会随之更新，帮助您更快地检查更改。</string>
 </resources>
